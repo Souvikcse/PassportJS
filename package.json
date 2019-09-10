@@ -1,0 +1,25 @@
+{
+  "name": "user_authentication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Souvikcse/PassportJS.git"
+  },
+  "author": "Souvik Banerjee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Souvikcse/PassportJS/issues"
+  },
+  "homepage": "https://github.com/Souvikcse/PassportJS#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.0.4",
+    "mysql2": "^1.7.0",
+    "sequelize": "^5.18.4"
+  }
+}
